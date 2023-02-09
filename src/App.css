@@ -1,0 +1,12 @@
+ion-grid {
+  --ion-grid-padding: 30px;
+  --ion-grid-padding-xs: 30px;
+  --ion-grid-column-padding-xs: 35px;
+  --ion-grid-width-xs: 600px;
+}
+ion-col {
+  background-color: #0393fb;
+  border: solid 2px #000;
+  color: #fff;
+  text-align: center;
+}
